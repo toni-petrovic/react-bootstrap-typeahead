@@ -1,5 +1,5 @@
 {
-  "name": "react-bootstrap-typeahead",
+  "name": "react-bootstrap-typeahead-events",
   "version": "1.4.2",
   "description": "React-based typeahead using the Bootstrap theme",
   "main": "lib/index.js",
